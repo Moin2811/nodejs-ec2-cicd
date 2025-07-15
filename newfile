@@ -1,0 +1,1 @@
+i created this file to test to check my aws pipeline that whether is it detecting my github commit,building my app using code build and deploying it to my ec2 instance using code deploy.
