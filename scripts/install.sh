@@ -1,9 +1,9 @@
 #!/bin/bash
-cd /home/ec2-user/myapp
+cd /home/ubuntu/myapp
 
 # Install Node.js if not already installed (optional)
 curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -
-sudo yum install -y nodejs
+sudo apt install -y nodejs
 
 # Install app dependencies
 npm install
