@@ -54,7 +54,7 @@ With this setup, every time you push code to GitHub, it is:
 
 ## 🙋‍♀️ Author
 
-**Zainab Kousar**
+**Mohammed Moin**
 Electronics & Communication Engineer | AWS & DevOps Enthusiast
 Hyderabad, India
 
